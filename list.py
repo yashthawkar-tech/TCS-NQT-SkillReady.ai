@@ -83,6 +83,14 @@ print(largest_no)
 # [23, 11, 45, 7, 18]
 # Output:
 # 7
+list=[23, 11, 45, 7, 18]
+smallest_no=list[0]
+for i in list:
+    if i<smallest_no:
+        minimum_no=i
+print(minimum_no)
+
+
 
 
 
