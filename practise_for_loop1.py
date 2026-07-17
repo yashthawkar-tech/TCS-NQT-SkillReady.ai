@@ -45,6 +45,15 @@
 # 17
 # Output:
 # Prime Number
+# nums = int(input("Enter a Number:"))
+# no=0
+# for i in range(1,nums+1):
+#     if nums%i==0:
+#         no=no+1
+# if no==2: #Every Prime No Has Only Two factors 1,itself
+#     print("Prime Number")
+# else:
+#     print("Not a Prime Number")
 
 
 # Task 13: Count Vowels in a String
