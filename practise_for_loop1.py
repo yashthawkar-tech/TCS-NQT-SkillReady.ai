@@ -16,6 +16,11 @@
 # 12345
 # Output:
 # 54321
+str=input("Enter a String:")
+reverse=""
+for i in str:
+    reverse = i +reverse
+print(reverse)
 
 # Task 11: Print All Factors
 # Problem: Print all factors of a given number.
