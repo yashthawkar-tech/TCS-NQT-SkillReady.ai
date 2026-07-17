@@ -16,11 +16,11 @@
 # 12345
 # Output:
 # 54321
-str=input("Enter a String:")
-reverse=""
-for i in str:
-    reverse = i +reverse
-print(reverse)
+# str=input("Enter a String:")
+# reverse=""
+# for i in str:
+#     reverse = i +reverse
+# print(reverse)
 
 # Task 11: Print All Factors
 # Problem: Print all factors of a given number.
@@ -33,6 +33,11 @@ print(reverse)
 # 4
 # 6
 # 12
+# nums=int(input("Enter a Number:"))
+# for i in range(1,nums+1):
+#     if nums%i==0:
+#         print(i)
+
 
 # Task 12: Check Prime Number
 # Problem: Check whether a number is Prime or Not.
