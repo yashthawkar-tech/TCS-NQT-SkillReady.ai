@@ -13,11 +13,11 @@ print(student)
 
 #characteristics of tuple
 #1. ordered collection of elements
-tuple = (1,2,3,4,5)
+tuple = (5,4,3,2,1)
 print(tuple)
 
 #2. immutable (cannot be changed after creation)
-tuple2 = (1,2,3,4,5)
+tuple2 = (5,4,3,2,1)
 # print(tuple2[2]) = 40  # This will raise an error
 
 #3. allows duplicate values
