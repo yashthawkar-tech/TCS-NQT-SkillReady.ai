@@ -80,10 +80,10 @@ print(largest_no)
 # Task 7: Find Minimum Number
 # Problem: Print the smallest number.
 # Input:
-# [23, 11, 45, 7, 18]
+# [23, 11, 45, 22, 18]
 # Output:
 # 7
-list=[23, 11, 45, 7, 18]
+list=[23, 11, 45, 22, 18]
 smallest_no=list[0]
 for i in list:
     if i<smallest_no:
