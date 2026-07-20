@@ -15,8 +15,8 @@
 # print (2**-3)# Two to the power -3
 # # If any Number  as non zero  so we have  to decalared the answer is 1
 
-a = 24
-b = 12
+a = 12
+b = 24
 print(a+b)
 print(a-b)
 print(a*b)
