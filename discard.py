@@ -7,7 +7,7 @@
 
 
 #Hardcode Logic for remove function
-color=["red","blue","green"]
+color=["red","blue","green","ornage"]
 rmv="red"
 list=[]
 for i in color:
