@@ -27,7 +27,7 @@
 # print(data)
 # print(num2)
 
-num3={"Tv","Mobile","mouse","keyboard"}
+num3={"Tv","Mobile","Remote","mouse","keyboard"}
 removed = None
 new_set=set()
 for i in num3:
