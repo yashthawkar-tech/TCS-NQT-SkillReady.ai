@@ -1,5 +1,5 @@
-a={1,2,3}
-b={3,4,5}
+a={1,2,3,5}
+b={3,4,5,6}
 a.symmetric_difference_update(b)
 print(a)
 
