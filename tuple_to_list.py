@@ -1,6 +1,6 @@
 #convert from tuple to list type conversion
 
-# tuple =(10,20,30,40,50)
+# tuple =(10,20,30,40,50,70)
 # print(type(tuple))
 # list = list(tuple)
 # print(type(list))
@@ -8,7 +8,7 @@
 # print(list)
 
 #tuple to list to tuple by using list properties
-tup=(1,2,3,4,5)
+tup=(1,2,3,4,5,6)
 list1=list(tup)
 list1.append(6)
 tup=tuple(list1)
