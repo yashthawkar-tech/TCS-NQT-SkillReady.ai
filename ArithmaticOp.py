@@ -2,7 +2,7 @@
 #arithmatic operator are use to perform mathematical operation on number
 # + - * / % **(power) //(floor division)
 
-# a = 10
+# a = 9
 # b = 3
 # print("Addition:", a + b)
 # print(a//b)
