@@ -1,7 +1,7 @@
 # #Find the even odd number using function
 
 # def find_evenodd():
-#     a = 9
+#     a = 15
 #     if a%2 == 0:
 #         print("Even Number")
 #     else:
