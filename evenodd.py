@@ -3,9 +3,9 @@
 # def find_evenodd():
 #     a = 15
 #     if a%2 == 0:
-#         print("Even Number")
+#         print("The Number is Even Number")
 #     else:
-#         print("odd number")
+#         print("The Number is odd number")
 
 # find_evenodd()
 
