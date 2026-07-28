@@ -1,4 +1,4 @@
-tuple=(1,2,3,4,5,6,7,8,9)
+tuple=(1,2,3,4,5,6,7,8,9,10)
 print(sum(tuple))#sum() function is used to find the sum of all values in tuple
 
 #hard coded logic for sum function in tuple
