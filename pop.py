@@ -8,7 +8,7 @@
 
 
 #Hardcode Logic
-# number = {10,20,30,40,50}
+# number = {10,20,30,40,50,60,70,80,90,100}
 # temp=list(number)
 # print(temp)
 # data = temp[0]
