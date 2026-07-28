@@ -1,6 +1,6 @@
 #add function 
 #adds one element to the set
-data ={"Rahul","Ashwin"}
+data ={"Rahul","Ashwin","Swara"}
 # data.add("Ayush")
 # print(data)
 #hard code logic
