@@ -1,13 +1,13 @@
-#print 1 to 10 using while
+#print 1 to 20 using while
 # i=0
-# while i <= 10:
+# while i <= 20:
 #     print(i)
 #     i+=1
 
 
-#print 10 to 1 using while
+#print 20 to 1 using while
 
-# i=10
+# i=20
 # while i >=1:
 #     print(i)
 #     i-=1
