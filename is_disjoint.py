@@ -13,11 +13,11 @@ b={1,2,3,4}
 # print(bool_var)
 
 #2nd way
-# bool_var2=True
-# for i in a :
-#     if i in b:
-#         print(False)
-#         break
+bool_var2=True
+for i in a :
+    if i in b:
+        print(False)
+        break
 
 
 #3rd Logic
