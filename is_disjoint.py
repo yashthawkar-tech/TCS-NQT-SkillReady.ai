@@ -21,15 +21,15 @@ for i in a :
 
 
 #3rd Logic
-# bool_var3=True
-# for i in a:
-#     for j in b:
-#         if i==j:
-#             bool_var3=False
-#             break
-#     if bool_var3 == False:
-#         break
-# print(bool_var3)
+bool_var3=True
+for i in a:
+    for j in b:
+        if i==j:
+            bool_var3=False
+            break
+    if bool_var3 == False:
+        break
+print(bool_var3)
 
 
 #4th Logic
