@@ -1,6 +1,6 @@
 #pop()==> remove the random element from set
 #set={} dict={key:value}
-# number = {10,20,30,40,70,80,90,100}
+# number = {10,20,30,40,70,80,90,100,110,120}
 # print(number.pop())
 # data =number.pop()
 # print(data)
