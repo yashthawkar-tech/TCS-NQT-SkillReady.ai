@@ -10,7 +10,7 @@
 # print(colors)
 
 #2nd Approach List Logic
-color=["Orange","Blue","Purple"]
+color=["Orange","Blue","Purple","Green"]
 rmv="Blue"
 list=[]
 for i in color:
