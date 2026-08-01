@@ -1,7 +1,7 @@
 #Find the even odd number using function
 
 # def even_odd():
-#     a = 12
+#     a = 122
 #     if a%2 == 0:
 #         print("It is an Even Number")       
 #     else:
