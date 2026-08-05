@@ -6,7 +6,7 @@
 #They always return True and False
 
 age=21 
-print (age>18 and age<25) #true
-print (age>18 or age<20) #true
+print (age>19 and age<25) #true
+print (age>19 or age<20) #true
 print(not(age>30))
 print (age>30)
