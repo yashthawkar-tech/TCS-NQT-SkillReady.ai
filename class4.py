@@ -8,3 +8,4 @@ class student:
         print("Age:",self.age)
         print("Age:",self.mobilenumber)
 s1=student()
+#S1 is the object here
