@@ -13,3 +13,5 @@ print(stud_obj.age)
 # print(type(s2))
 # print(s2.name)
 # print(s2.age)
+#Shallow copy is used to access data From the class
+#without disturbing the object using a new Variable
