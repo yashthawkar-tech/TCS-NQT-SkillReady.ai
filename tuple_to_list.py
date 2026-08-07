@@ -1,6 +1,6 @@
 #convert from tuple to list type conversion
 
-# tuple =(10,20,30,40,50,70)
+# tuple =(10,20,30,40,50,70,80)
 # print(type(tuple))
 # list = list(tuple)
 # print(type(list))
