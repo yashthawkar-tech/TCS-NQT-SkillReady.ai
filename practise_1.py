@@ -1,7 +1,7 @@
 #Find the even odd number using function
 
 # def even_odd():
-#     a = 122
+#     a = 75
 #     if a%2 == 0:
 #         print("It is an Even Number")       
 #     else:
@@ -28,7 +28,7 @@
 
 # #Print Your name using Function
 # def your_name():
-#     name = "Yash"
+#     name = "Ayushi"
 #     print("My Name is",name)
 #     return
 # your_name()
