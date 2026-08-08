@@ -5,6 +5,7 @@
 # data =number.pop()
 # print(data)
 # print(number)
+#It will Randomly remove any Element in the List
 
 
 #Hardcode Logic
