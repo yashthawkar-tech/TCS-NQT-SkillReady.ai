@@ -7,7 +7,7 @@
 # 40
 # 50
 # Output:
-# [10, 20, 30, 40, 50]
+# [20, 40, 60, 80, 100]
 # a =int(input("number1:"))
 # b =int(input("number2:"))
 # c =int(input("number3:"))
