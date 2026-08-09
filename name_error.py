@@ -4,7 +4,7 @@
 #     print("please declare the variable")
 
 # try:
-#     name="yash"
+#     name="Ayush"
 #     print(namme)
 # except Exception:
 #     print("Please correct it")
