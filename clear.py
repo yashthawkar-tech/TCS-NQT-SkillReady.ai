@@ -1,4 +1,4 @@
-number={10,20,30,40,50}
+number={10,20,30,40,50,60,70,80}
 number.clear()#It will clear all elements in the set
 print(number)
 
