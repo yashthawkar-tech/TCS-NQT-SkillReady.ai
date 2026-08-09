@@ -11,10 +11,10 @@
 
 #2nd Approach List Logic
 color=["Orange","Blue","Purple","Green"]
-rmv="Blue"
+remove="Blue"
 list=[]
 for i in color:
-    if i !=rmv:
+    if i !=remove:
         list.append(i)
 print(list)
 
