@@ -6,7 +6,7 @@
 
 # #implicite type
 # a =10 #int
-# b =20.00 #float
+# b =20.10 #float
 # c = a+b
 # print(type(c))# result will be float
 
