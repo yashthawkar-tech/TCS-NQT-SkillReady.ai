@@ -48,3 +48,15 @@ obj3_program.programming_skills()
 
 obj4_eng=English()
 obj4_eng.English_Level()
+
+
+#                     Student
+#                        │
+#                        ▼
+#                     Skills
+#                    /      \
+#                   ▼        ▼
+#           Programming    softskill
+#                │            │
+#                ▼            ▼
+#               Dsa         English
