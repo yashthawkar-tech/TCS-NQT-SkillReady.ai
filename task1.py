@@ -32,3 +32,19 @@ Communication
 class English(softskill):
     def English_Level(self):
         print("Intermidiate Level English")
+obj_skill=Skills()
+obj_skill.student_name("Yash Thawkar")
+obj_skill.skills_of_student()
+
+
+obj1_softskill=softskill()
+obj1_softskill.softskills()
+
+obj2_dsa=Dsa()
+obj2_dsa.Dsa_score()
+
+obj3_program=Programming()
+obj3_program.programming_skills()
+
+obj4_eng=English()
+obj4_eng.English_Level()
