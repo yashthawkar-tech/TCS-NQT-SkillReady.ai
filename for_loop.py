@@ -7,6 +7,6 @@
 # for i in num:
 #     print(i)
 
-#print Reverse 10 to 1
-# for i in range(10,0,-1):
+#print Reverse 20 to 1
+# for i in range(20,0,-1):
 #     print(i)
