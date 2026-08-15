@@ -1,5 +1,5 @@
-# #print 1 to 20
-# for i in range(1,21):
+# #print 1 to 50
+# for i in range(1,51):
 #     print(i)
 
 # #Print it Without Range
