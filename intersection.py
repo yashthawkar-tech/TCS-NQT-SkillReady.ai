@@ -1,5 +1,5 @@
 a={1,2,3}
-b={2,3,5,6}#It will print The elements 
+b={2,3,5,6,7}#It will print The elements 
            #which are present in both sets 
 print(a.intersection(b))
 
