@@ -8,8 +8,8 @@
 
 #Without Argument
 def addition2():
-    a =10
-    b =20
+    a =40
+    b =50
     c =a+b
     print(c)
 
