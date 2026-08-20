@@ -11,7 +11,7 @@ student=[("ram",90),("yash",94),("sharvari",99)]
 print(sorted(student,key=lambda a:a[1]))
 
 
-student=[(44,90),(22,94),(14,99)]
+student=[(40,95),(22,94),(14,99)]
 print(sorted(student,key=lambda a:a[0]))
 
 student=[(44,"yash"),(22,"arya"),(14,"shakuni")]
