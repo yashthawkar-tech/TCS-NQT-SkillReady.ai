@@ -14,7 +14,8 @@ class calculator:
     #     print(a+b+c)
 object=calculator()
 object.add(10,20,30,40,50,60)
-
+object.add(10,20)
+#Method OverLoading
 
 
 
