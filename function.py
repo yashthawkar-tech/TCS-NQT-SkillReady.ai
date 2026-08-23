@@ -9,7 +9,7 @@
     #code
 
 def printname():
-    name ="yash"
+    name ="Ayush"
     print("my name is",name)
 
 printname()#calling the function
