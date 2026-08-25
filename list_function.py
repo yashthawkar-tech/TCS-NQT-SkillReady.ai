@@ -4,8 +4,8 @@
 # #what is the use of append ()?
 # #Add one element at the end of the list
 # list = [1,2,3,4,5,6]
-# list.append(100)
-# list.append(200)
+# list.append(7)
+# list.append(8)
 # print(list)
 
 # #insert function
