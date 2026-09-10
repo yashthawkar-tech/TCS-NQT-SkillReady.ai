@@ -9,8 +9,8 @@ print('Addition =',addition(40,20)) #uske lie print ke andar function ko call kr
 #without argument
 
 def addition2():
-    a = 12
-    b= 14
+    a = 4342349
+    b= 4356743
     # c = a + b
     # return c
     return a+b # in case if you dont want to declare anathor keyword
