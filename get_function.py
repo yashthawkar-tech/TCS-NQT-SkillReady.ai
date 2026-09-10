@@ -1,4 +1,4 @@
-student={"name":"Yash", "Age":21}
+student={"name":"Salman", "Age":56}
 print(student.get("name"))
 #to Access the value 
 
