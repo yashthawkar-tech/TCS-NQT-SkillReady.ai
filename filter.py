@@ -2,7 +2,7 @@ number =[1,2,3,4,5,6,7,8,9,10]
 data=list(filter(lambda a:a%2==0,number))
 print("Even Number:",data)
 
-number =[1,2,3,4,5,6,7,8,9]
+number =[10,27,30,42,50,60,71,80,97]
 data=list(filter(lambda a:a%2!=0,number))
 print("Odd Number:",data)
 
