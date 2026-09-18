@@ -23,10 +23,32 @@ def pop_operation():
     else:
         number=stack.pop()
         print("stack element is deleted",number)
+def print_stack():
+    if len(stack)==0:
+        print("stack is empty")
+    else:
+        print("Elements of stack:")
+        for i in range(len(stack)-1,-1,-1):
+            print(stack[i],end=" ")
+            print() 
+while True:
+    print("\n1.PUSH")
+    print("2.POP")
+    print("3.Print stack")
+    print("4.Exit")
+    choice=int(input("enter your choice:"))
+    if choice==1:
+        push_operation()
+    elif choice==2:
+        pop_operation()
+    elif choice==3:
+        print_stack()
+    elif choice==4:
+        print("Programm is stopped...") 
+        break
+    else:
+        print("Invalid choice..")                           
 
-
-push_operation()
-push_operation()
 
 #PROJECTS
 #Banking Application
