@@ -1,4 +1,4 @@
-maxsize=5
+maxsize=6
 stack=[]
 def push_values():
     if len(stack)==maxsize:
